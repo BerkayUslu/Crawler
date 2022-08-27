@@ -1,0 +1,16 @@
+/Users/berkayuslu/Documents/GitHub/Crawler/Crawler/obj/Debug/Crawler.csproj.AssemblyReference.cache
+/Users/berkayuslu/Documents/GitHub/Crawler/Crawler/obj/Debug/Crawler.exe.config
+/Users/berkayuslu/Documents/GitHub/Crawler/Crawler/obj/Debug/Crawler.csproj.CoreCompileInputs.cache
+/Users/berkayuslu/Documents/GitHub/Crawler/Crawler/bin/Debug/Crawler.exe.config
+/Users/berkayuslu/Documents/GitHub/Crawler/Crawler/bin/Debug/Crawler.exe
+/Users/berkayuslu/Documents/GitHub/Crawler/Crawler/bin/Debug/Crawler.pdb
+/Users/berkayuslu/Documents/GitHub/Crawler/Crawler/bin/Debug/System.Net.Http.Extensions.dll
+/Users/berkayuslu/Documents/GitHub/Crawler/Crawler/bin/Debug/System.Net.Http.Primitives.dll
+/Users/berkayuslu/Documents/GitHub/Crawler/Crawler/bin/Debug/System.Net.Http.Extensions.xml
+/Users/berkayuslu/Documents/GitHub/Crawler/Crawler/bin/Debug/System.Net.Http.Primitives.xml
+/Users/berkayuslu/Documents/GitHub/Crawler/Crawler/obj/Debug/Crawler.csproj.CopyComplete
+/Users/berkayuslu/Documents/GitHub/Crawler/Crawler/obj/Debug/Crawler.exe
+/Users/berkayuslu/Documents/GitHub/Crawler/Crawler/obj/Debug/Crawler.pdb
+/Users/berkayuslu/Documents/GitHub/Crawler/Crawler/bin/Debug/HtmlAgilityPack.dll
+/Users/berkayuslu/Documents/GitHub/Crawler/Crawler/bin/Debug/HtmlAgilityPack.pdb
+/Users/berkayuslu/Documents/GitHub/Crawler/Crawler/bin/Debug/HtmlAgilityPack.xml
