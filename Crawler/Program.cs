@@ -28,11 +28,12 @@ namespace crawler
             var htmlDocument = new HtmlDocument();
             htmlDocument.LoadHtml(html);
 
+
             var divs = htmlDocument.DocumentNode.Descendants("div")
                 .Where(node => node.GetAttributeValue("class", "")
                     .Equals("col-sm-8 grid8")).ToList();
 
-            foreach(var div in divs)
+            foreach (var div in divs)
             {
                 LessonName.Add(div.InnerText);
             }
