@@ -1,13 +1,15 @@
 ﻿<Properties StartupConfiguration="{29BBEF01-0094-476A-A7A1-608FEBF58409}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Crawler/Program.cs">
     <Files>
-      <File FileName="Crawler/Program.cs" Line="9" Column="1" />
+      <File FileName="Crawler/Program.cs" Line="2" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Crawler" expanded="True">
-            <Node name="Crawler" expanded="True" selected="True" />
+            <Node name="Crawler" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
